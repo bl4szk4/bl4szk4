@@ -15,6 +15,7 @@ uses Epson Scara robot as an opponent, connected together with Modbus TCP/IP.
 ## My skills 🤳
 
 -> Python  
+-> Django, Django Rest Framework
 -> NumPy  
 -> Pandas  
 -> Java  
